@@ -1,0 +1,30 @@
+warband: Sigmar's Pest Control (Witch Hunters)
+active: false
+gc: 0
+shards: 0
+heroes:
+    - hero: Felix Schlechtsich (Witch Hunter Captain) [20xp]
+      stats: M4, WS4, BS4, S3, T4, W1, I4, A1, Ld8, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Speed
+      weapons: Crossbow pistol, hammer
+      armour:
+      rules: Burn the Witch!
+    - hero: Toumas (Witch Hunter) [8xp]
+      stats: M4, WS4, BS4, S3, T4, W1, I4, A1, Ld8, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Speed
+      weapons: 
+      armour:
+      rules: Burn the Witch!
+    - hero: Stephanie (Witch Hunter) [8xp]
+      stats: M4, WS4, BS4, S3, T4, W1, I4, A1, Ld8, Sv-
+      skilllists: Combat, Shooting, Academic, Strength, Speed
+      weapons: 
+      armour:
+      rules: Burn the Witch!
+
+henchmen:
+    - group: Woof Mob (4 Warhounds) [0xp]
+      stats: M6, WS4, BS0, S4, T3, W1, I4, A1, Ld5, Sv-
+      weapons: Jaws and Brutality!
+      armour: 
+      rules: Animals
